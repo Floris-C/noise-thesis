@@ -2,6 +2,10 @@
 data/
 output/
 output2/
+data_archives/
+*.csv
+*.gpkg
+*.geojson
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
