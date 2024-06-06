@@ -2,6 +2,7 @@
 data/
 output/
 output2/
+cache/
 data_archives/
 *.csv
 *.gpkg
