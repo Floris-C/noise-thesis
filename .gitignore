@@ -7,6 +7,8 @@ data_archives/
 *.csv
 *.gpkg
 *.geojson
+*.png
+*_dump
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
