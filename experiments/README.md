@@ -1,0 +1,1 @@
+This folder contains several uncommented python files/notebooks used throughout this study to evaluate the applicability of alternative approaches. It exists primarily for archival purposes.
